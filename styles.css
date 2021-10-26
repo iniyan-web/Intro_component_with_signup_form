@@ -178,7 +178,7 @@ input:focus {
   color: var(--red);
 }
 
-@media (max-width: 1150px){
+@media (max-width: 1150px) {
   body {
     height: 940px;
     margin: 5vh auto;
@@ -190,21 +190,21 @@ input:focus {
     flex-flow: column nowrap;
   }
 
-.main-text{
-  text-align: center;
-}
+  .main-text {
+    text-align: center;
+  }
 
-.main-text p {
-padding-bottom: 35px;
-}
+  .main-text p {
+    padding-bottom: 35px;
+  }
 
-.flex-item1{
-  flex-shrink: 3;
-}
+  .flex-item1 {
+    flex-shrink: 3;
+  }
 
-.flex-item2{
-  align-self: stretch;
-}
+  .flex-item2 {
+    align-self: stretch;
+  }
 
   .error-msg {
     font-size: 12px;
